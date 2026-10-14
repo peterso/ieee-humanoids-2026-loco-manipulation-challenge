@@ -12,7 +12,7 @@ The Loco-Manipulation Challenge will consist of a single testing apparatus that 
 
 ## Rules and Test Procedures
 
-A detailed description of the competition testbed, tasks, and rules is provided in the competition description document. The tests will consist of several cross-cutting basic tasks arranged in a circuit, separated into mobility and manipulation focused tasks.  Autonomy will be incentivized, but teleoperation or remote operation will still score points. 3D models, build plans, and a material list for building the apparatus shown in the rules will be released in early October 2026, along with a final rules document showing the layout of the competition and more detailed schedule.
+A detailed description of the competition testbed, tasks, and rules is provided in the competition description document. The tests will consist of several cross-cutting basic tasks arranged in a circuit, separated into mobility and manipulation focused tasks.  Autonomy will be incentivized, but teleoperation or remote operation will still score points.
 
 Download Competition Rules and Description Document: [Rules](Humanoid-Conference-Competition-Rules.pdf)
 
