@@ -4,7 +4,7 @@
 
 # IEEE Humanoids 2026 Loco-Manipulation Challenge 
 
-This and additional information as necessary can be found at our github: [https://github.com/peterso/ieee-humanoids-2026-loco-manipulation-challenge/](https://github.com/peterso/ieee-humanoids-2026-loco-manipulation-challenge/)
+To guarantee eligibility for Travel Grants, your team must register for the competition by submitting a brief team description paper by **the end of October (11:59pm, October 31st, Anywhere on Earth).**
 
 ## Objective
 
@@ -30,7 +30,7 @@ The Latex template for the TDP can be found here: [Template](TDP-Template)
 
 Once Complete the TDP can be submitted via EasyChair. Follow this link, create an account if needed, and submit: [https://easychair.org/conferences/?conf=2026humanoidscompeti](https://easychair.org/conferences/?conf=2026humanoidscompeti)
 
-**Due Date: 1:59pm, October 31st, Anywhere on Earth**
+**Due Date: 11:59pm, October 31st, Anywhere on Earth**
 
 *Team Description Papers must be submitted by the end of October to be guaranteed eligibility for travel Grants.*
 
