@@ -7,4 +7,4 @@ The "Light Bulb" folder contains the stl file for the 3D-printed lightbulbs that
 
 The "Can Crusher" folder contains the stl files for the can-holder, can-crusher mechanism, an example can, and an example can task bin. 
 
-The 
+The "Cabinet Handles" Folder  contains the stl files for the handles used on the cabinet doors and drawers, with a details document giving number and placement. 
