@@ -49,8 +49,6 @@ Download Additional Information for On-Site Robot Availability from Ultimate Bot
 
 Note that the simulation files (USD) do not currently include accurate friction, mass, and inertial parameters. 
 
-The included models are currently _not the final version of the testbed._ The structure will remain the same, but some details may change. Final version will be updated here soon. 
-
 ## Build Plans
 Full build plans for the testbed, including parts and instructions, is under development and will be released soon. 
 
