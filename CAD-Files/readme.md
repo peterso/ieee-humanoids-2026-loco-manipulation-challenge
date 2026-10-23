@@ -5,6 +5,6 @@ The CAD files showing the Loco-Manipulation Challenge testbed are given here. Th
 
 The "Light Bulb" folder contains the stl file for the 3D-printed lightbulbs that will be used instead of glass lightbulbs in the testbed.
 
-The "Can Crusher" folder contains the stl files for the can-holder, can-crusher mechanism, an example can, and an example can task bin. 
+The "Can Crusher" folder contains the stl files for the can-holder, can-crusher mechanism, an example can, and an example can task bin. The 3d-printable cad files for the can crusher can be found via open-source models such as: [https://grabcad.com/library/3-d-printable-soda-can-crusher-1](https://grabcad.com/library/3-d-printable-soda-can-crusher-1)
 
 The "Cabinet Handles" Folder  contains the stl files for the handles used on the cabinet doors and drawers, with a details document giving number and placement. 
