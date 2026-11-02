@@ -30,7 +30,8 @@ The Latex template for the TDP can be found here: [Template](TDP-Template)
 
 Once Complete the TDP can be submitted via EasyChair. Follow this link, create an account if needed, and submit: [https://easychair.org/conferences/?conf=2026humanoidscompeti](https://easychair.org/conferences/?conf=2026humanoidscompeti)
 
-**Due Date: 11:59pm, October 31st, Anywhere on Earth**
+~~**Due Date: 11:59pm, October 31st, Anywhere on Earth**~~
+**The deadline has been extended by one week. Due Date: 11:59pm, Nov. 7th, Anywhere on Earth**
 
 *Team Description Papers must be submitted by the end of October to be guaranteed eligibility for travel Grants.*
 
