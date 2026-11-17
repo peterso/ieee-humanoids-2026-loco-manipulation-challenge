@@ -7,14 +7,16 @@ Alongside the Loco-Manipulation Challenge track several tables will offer a circ
 
 The RSVC circuit manipulation tasks include the following test stations:
 
-	- Robothon Electronic Task Board (eTB2021): Battery Removal 
-	- Robothon Electronic Task Board (eTB2023): Multimeter Use 
-	- Robothon Electronic Task Board (eTB2025): Reaction Time, Screen/Tool Use 
-	- NIST Assembly Task Board ATB#1: Insertion
-	- NIST Assembly Task Board ATB#2: Pulleys
-	- Transport Tray with Cups 
-	- Transport Cardboard Box
-	- Transport Weighted Tote Bag
+| Station | Benchmark Task Description                                               | Instructions  | Scoring |   |
+|---------|--------------------------------------------------------------------------|---------------|---------|---|
+|    1    | Robothon Electronic Task Board (eTB2021): Battery Removal                | [Test Protocol](../imgs/eTB2021_Robot-Human_Protocol.jpeg) | 20      |   |
+|    2    | Robothon Electronic Task Board (eTB2023): Multimeter Use                 | [Test Protocol](../imgs/eTB2023_Robot-Human_Protocol.jpeg) | 20      |   |
+|    3    | Robothon Electronic Task Board (eTB2025): Reaction Time, Screen/Tool Use | [Test Protocol](../Robothon2025_eTB_Instructions.pdf) | 20      |   |
+|    4    | NIST Assembly Task Board ATB#1: Insertion                                | Test Protocol | 20?     |   |
+|    5    | NIST Assembly Task Board ATB#2: Pulleys                                  | Test Protocol | 20?     |   |
+|    6    | Transport Tray with Cups                                                 | [Test Protocol](../imgs/Transport-Cup.png) | 20?     |   |
+|    7    | Transport Cardboard Box                                                  | [Test Protocol](../imgs/Transport-Box.png) | 20?     |   |
+|    8    | Transport Weighted Tote Bag                                              | [Test Protocol](../imgs/Transport-ToteBag.png) | 20?     |   |
 
 ## Rules and Test Procedures
 
@@ -25,6 +27,8 @@ The electronic task board (eTB) manipulation benchmarks model industrial use cas
 NIST Prototype Assembly Task Boards (ATBs) are manipulation and assembly benchmarks representing endorsed by NIST. Learn more about the test protocol and scoring details on the [NIST ATB project website](https://www.nist.gov/el/intelligent-systems-division-73500/robotic-grasping-and-manipulation-assembly/assembly). 
 
 The transport tasks involve picking the readily available objects, including a food serving tray with cups filled with foam cubes, cardboard boxes, and a tote bag, from a demarcated start region with the goal to move them to a target goal region and will be scored based on success rate and timing. A designated test area will be set up for the transport tasks alongside the Loco-Manipulation track. See the schedule below. 
+
+Here is an overall RSVC score card to record the best performance of each team. 
 
 ## Planned Schedule
 The benchmark artifacts will be mounted on tables directly next to the Loco-Manipulation competition to be used by participating teams throughout the duration of the conference. All trial attempts to be considered for stage recognition, with the exception for the transport tasks, must be completed and verified by a judge by Wednesday morning (12:00pm cutoff). The transport tasks will be demonstrated during designated time slot on Wednesday afternoon live in front of a jury. Top performing teams will be informed ahead of their stage appearance at the award ceremony on Wednesday at 17:30. See the [conference program](https://2026.ieee-humanoids.org/program-overview/) for the latest information.
