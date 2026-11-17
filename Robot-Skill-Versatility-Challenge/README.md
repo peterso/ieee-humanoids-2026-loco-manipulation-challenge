@@ -9,14 +9,14 @@ The RSVC circuit manipulation tasks include the following test stations:
 
 | Station | Benchmark Task Description                                               | Instructions  | Scoring Pass/Fail | More Info  |
 |---------|--------------------------------------------------------------------------|---------------|---------|---|
-|    1    | Robothon Electronic Task Board (eTB2021): Battery Removal                | [Test Protocol](../imgs/eTB2021_Robot-Human_Protocol.jpeg) | 6 tasks      | CAD  |
-|    2    | Robothon Electronic Task Board (eTB2023): Multimeter Use                 | [Test Protocol](../imgs/eTB2023_Robot-Human_Protocol.jpeg) | 6 tasks      | CAD <br> Sim |
-|    3    | Robothon Electronic Task Board (eTB2025): Reaction Time, Screen/Tool Use | [Test Protocol](./Robothon_eTB2025_Protocol.pdf) | 6 tasks      | CAD  |
-|    4    | NIST Assembly Task Board ATB#1: Insertion                                | [Test Protocol](./Benchmark_NIST_Assembly_Task_Board_1_V1.0.pdf) | 10 tasks     |   |
-|    5    | NIST Assembly Task Board ATB#2: Pulleys                                  | [Test Protocol](./Benchmark_NIST_Assembly_Task_Board_2_V1.0.pdf) | 3 tasks     |   |
-|    6    | Transport Tray with Cups                                                 | [Test Protocol](../imgs/Transport-Cup.png) | 3 tasks     |   |
-|    7    | Transport Cardboard Box                                                  | [Test Protocol](../imgs/Transport-Box.png) | 3 tasks     |   |
-|    8    | Transport Weighted Tote Bag                                              | [Test Protocol](../imgs/Transport-ToteBag.png) | 3 tasks     |   |
+|    1    | Robothon Electronic Task Board (eTB2021): Battery Removal                | [Test Protocol](../imgs/eTB2021_Robot-Human_Protocol.jpeg) <br> <br > [Manual](./Robothon_eTB2021_Protocol.pdf) | 6 tasks      | [CAD](../CAD-Files/Robothon_eTB2021/eTB2021.stl) <br> <br> [Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/dashboard2/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad) |
+|    2    | Robothon Electronic Task Board (eTB2023): Multimeter Use                 | [Test Protocol](../imgs/eTB2023_Robot-Human_Protocol.jpeg) <br> <br> [Manual](./Robothon_eTB2023_Protocol.pdf) | 6 tasks      | [CAD](../CAD-Files/Robothon_eTB2023/eTB2023.stl) <br> Sim <br> [Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/0d2f0e4c-6a80-4cf4-a48d-5b25fcb35ac0/19addcfa-9cf1-42b3-8bd3-32a1feb4abdb?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad) |
+|    3    | Robothon Electronic Task Board (eTB2025): Reaction Time, Screen/Tool Use | [Test Protocol](../imgs/eTB2025_Protocol.jpeg) <br> <br> [Manual](./Robothon_eTB2025_Protocol.pdf) | 6 tasks      | [CAD](../CAD-Files/Robothon_eTB2025/eTB2025.stl) <br> <br> [Dashboard](https://cloud.kaaiot.com/wd-public/c1v9jqmgul2l1s47m6bg/dashboards/8ce30d1f-bd06-4d15-9d51-69970b069975/931cb10a-3044-49c8-8530-5ce0951e291b?public_id=4e4990d1-dcab-4f1a-b1a6-8648e87bc5ad) |
+|    4    | NIST Assembly Task Board ATB#1: Insertion                                | [Test Protocol](./Benchmark_NIST_Assembly_Task_Board_1_V1.0.pdf) | 10 tasks     | N/A  |
+|    5    | NIST Assembly Task Board ATB#2: Pulleys                                  | [Test Protocol](./Benchmark_NIST_Assembly_Task_Board_2_V1.0.pdf) | 3 tasks     | N/A  |
+|    6    | Transport Tray with Cups                                                 | [Test Protocol](../imgs/Transport-Cup.png) | 3 tasks     | N/A  |
+|    7    | Transport Cardboard Box                                                  | [Test Protocol](../imgs/Transport-Box.png) | 3 tasks     | N/A  |
+|    8    | Transport Weighted Tote Bag                                              | [Test Protocol](../imgs/Transport-ToteBag.png) | 3 tasks     | N/A  |
 
 ## Rules and Test Procedures
 
