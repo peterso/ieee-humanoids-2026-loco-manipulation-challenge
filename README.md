@@ -1,10 +1,12 @@
 
-![TitleFigure.png](TitleFigure.png)
+![TitleFigure.png](./imgs/TitleFigure.png)
 
 
 # IEEE Humanoids 2026 Loco-Manipulation Challenge 
 
-To guarantee eligibility for Travel Grants, your team must register for the competition by submitting a brief team description paper by **the end of October (11:59pm, October 31st, Anywhere on Earth).**
+**[UPDATE]** See details about the [IEEE Humanoids Robot Skill Versatility Challenge Track](./_Robot-Skill-Versatility-Challenge/README.md) happening concurrently, adjacent to the Loco-Manipulation Challenge.
+
+**[IMPORTANT]** To guarantee eligibility for Travel Grants, your team must register for the competition by submitting a brief team description paper by **the end of October (11:59pm, October 31st, Anywhere on Earth).**
 
 ## Objective
 
