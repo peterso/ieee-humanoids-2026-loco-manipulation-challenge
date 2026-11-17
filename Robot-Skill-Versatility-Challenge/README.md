@@ -28,6 +28,7 @@ NIST Prototype Assembly Task Boards (ATBs) are manipulation and assembly benchma
 
 The transport tasks involve picking the readily available objects, including a food serving tray with cups filled with foam cubes, cardboard boxes, and a tote bag, from a demarcated start region with the goal to move them to a target goal region and will be scored based on success rate and timing. A designated test area will be set up for the transport tasks alongside the Loco-Manipulation track. See the schedule below. 
 
+![rsvc_scorecard_preview](../imgs/rsvc_scorecard_preview.png)
 Here is an overall [RSVC Scorecard](./RSVC_Team_Scorecard.pdf) to record the best performance of each team. 
 
 ## Planned Schedule
